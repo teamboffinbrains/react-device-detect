@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://www.npmjs.com/package/bb-react-device-detect"
+    "url": "https://github.com/teamboffinbrains/react-device-detect"
   },
   "keywords": [
     "useragent",
