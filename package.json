@@ -1,5 +1,5 @@
 {
-  "name": "react-device-detect",
+  "name": "bb-react-device-detect",
   "version": "1.6.1",
   "description": "Detect device type and render your component according to it",
   "main": "dist/index.js",
@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/duskload/react-device-detect/"
+    "url": "https://github.com/teamboffinbrains/react-device-detect"
   },
   "keywords": [
     "useragent",
